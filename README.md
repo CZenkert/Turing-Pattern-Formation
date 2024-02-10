@@ -1,0 +1,3 @@
+A lattice-based simulation of the interactions between pigment cells in the skin of zebra fish that lead to the formation of the characteristic stipe pattern. Based on the work of A Volkening and B Sandstede: “Modelling stripe formation in zebrafish: an agent-based approach”, in: Journal of the Royal Society Interface, 2015.
+Long- and short-range interactions activate or inhibit the production of new cells. A large number of cells of opposite color in a neighborhood leads to cell death. Yellow pigment cells prompt black ones to migrate away from them and are capable of slowly following them, displaying a "chase and run" behavior. 
+The simulation reproduces results found by Volkening in a simplified setting and outputs realistic patterns under different conditions.
